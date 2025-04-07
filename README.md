@@ -86,7 +86,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 | Nepali | Roman | Meaning | Example
 | --------- | ----------- |  ----------- | ----------- |
 <span id="अ" style="color:#ff0">**अ**</span>
-अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       Those who are clever can benefit from any situation
+अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       Those who are clever fox can benefit from any situation
 अकटको कुलो, बिकटको खेत, बिर्सेछु दाजै शिलोकको फेद    |   	Akat ko kulo, bikat ko khet, birsechhu daajai silok ko fed | People often forget the help & advice provided by others but remember the benefits they received
 अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji | Justice is served by both the powerful and the wise
 अकबरी सुनलाई कसी लाउनु पर्दैन    |   	Akabari sun lai kasi laaunu pardaina. | Ramro manche yesai ramro
